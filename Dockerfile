@@ -10,7 +10,6 @@ RUN apk add -q --update --no-cache \
       harfbuzz \
       ca-certificates \
       ttf-freefont
-      # ttf-freefont \
       # nodejs \
       # yarn
 
